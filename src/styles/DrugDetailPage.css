@@ -1,0 +1,33 @@
+/* DrugDetailPage.css */
+  .container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .drug-details h1 {
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .drug-details p {
+    margin: 0.5rem 0;
+  }
+  
+  .drug-details p strong {
+    color: #555;
+  }
+  
+  .drug-details h2 {
+    margin-top: 2rem;
+    color: #444;
+  }
+  
+  .error {
+    color: red;
+    text-align: center;
+  }
+  
