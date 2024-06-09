@@ -7,7 +7,8 @@ Two pages:
 1. Drug search page.
 2. Drug Details page.
 
-- App screen shots available in screen shots folder.
+- App screen shots available in samples folder.
+- App is responsively developed for all the three resolutions (Mobile, tablet and desktop)
 
 ## Available Scripts
 
